@@ -1,3 +1,6 @@
+# Copyright (c) HashiCorp, Inc.
+# SPDX-License-Identifier: MPL-2.0
+
 # Policy to only allows Docker based tasks
 main = rule { all_drivers_docker }
 

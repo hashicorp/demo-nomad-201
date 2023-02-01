@@ -1,3 +1,6 @@
+# Copyright (c) HashiCorp, Inc.
+# SPDX-License-Identifier: MPL-2.0
+
 name = "web-prod-quota"
 description = "limit the web-prod namespace"
 
