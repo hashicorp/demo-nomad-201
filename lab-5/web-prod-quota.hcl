@@ -1,3 +1,5 @@
+# Copyright IBM Corp. 2019, 2026
+
 name = "web-prod-quota"
 description = "limit the web-prod namespace"
 

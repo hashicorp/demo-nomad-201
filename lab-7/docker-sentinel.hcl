@@ -1,3 +1,5 @@
+# Copyright IBM Corp. 2019, 2026
+
 # Policy to only allows Docker based tasks
 main = rule { all_drivers_docker }
 
