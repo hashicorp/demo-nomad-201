@@ -1,3 +1,5 @@
+# Copyright IBM Corp. 2019, 2026
+
 # namespace policy rule covers job-related operations by namespace
 namespace "default" {
     policy = "read"
